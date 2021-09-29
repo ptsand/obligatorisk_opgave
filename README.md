@@ -13,7 +13,7 @@ https://git-scm.com/book/en/v2/GitHub-Contributing-to-a-Project
 
 Når du har sendt dit pull requests skal du copy/paste urlén til dit eget repository ind i afleveringsdokumentet. 
 
-## Contributing to Obligatorisk opgave
+## Contributing to Obligatorisk opgave 1
 
 1. Fork this repository.
 2. Create a branch: `git checkout -b <branch_name>`.
