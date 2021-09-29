@@ -29,7 +29,7 @@ Thanks to the following people who have contributed to this project:
 
 * [@clbokea](https://github.com/clbokea)
 
- - Lars Brogaard Kaiser (https://github.com/mrbrogaardkaiser)
+ - Lars Brogaard Kaiser (https://github.com/mrbrogaardkaiser) DAT21V2
  
 
 
