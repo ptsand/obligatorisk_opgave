@@ -28,3 +28,4 @@ Thanks to the following people who have contributed to this project:
 
 * [@clbokea](https://github.com/clbokea)
 * [@TheeCapain](https://github.com/TheeCapain)
+* [August]
