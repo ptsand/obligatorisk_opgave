@@ -23,6 +23,7 @@ Når du har sendt dit pull requests skal du copy/paste urlén til dit eget repos
 
 
 ## Contributors
+* [jakobmajiddd](https://github.com/jakobmajiddd)
 
 Thanks to the following people who have contributed to this project:
 
