@@ -26,4 +26,5 @@ Når du har sendt dit pull requests skal du copy/paste urlén til dit eget repos
 
 Thanks to the following people who have contributed to this project:
 
+Christoffer Pedersen
 * [@clbokea](https://github.com/clbokea)
