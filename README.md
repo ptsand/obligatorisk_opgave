@@ -28,3 +28,5 @@ Thanks to the following people who have contributed to this project:
 
 * [@clbokea](https://github.com/clbokea)
 * [@Mark Kaplan Hansen](https://github.com/BenAtic-KEA)
+* [@tobiasvinther](https://github.com/tobiasvinther)
+
