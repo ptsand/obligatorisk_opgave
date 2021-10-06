@@ -27,8 +27,8 @@ Når du har sendt dit pull requests skal du copy/paste urlén til dit eget repos
 Thanks to the following people who have contributed to this project:
 
 * [@clbokea](https://github.com/clbokea)
+* [@FrederikWVB - Frederik Wandall von Benzon](https://github.com/FrederikWVB)
 * [@MichaelDyvad](https://github.com/MichaelDyvad)
 * [@simongr3dal](https://github.com/simongr3dal)
 * [@Mark Kaplan Hansen](https://github.com/BenAtic-KEA)
 * [@tobiasvinther](https://github.com/tobiasvinther)
-
