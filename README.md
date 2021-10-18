@@ -27,6 +27,7 @@ Thanks to the following people who have contributed to this project:
 * [AlexanderNormann] (https://github.com/AlexanderNormann)
 * [jakobmajiddd] - (https://github.com/jakobmajiddd)
 * [@clbokea](https://github.com/clbokea)
+* [@Jarkyman] (https://github.com/Jarkyman)
 * [@Moshizzl3](https://github.com/Moshizzl3)
 * @martinlaursen97
 * [@MadsHaderup](https://github.com/MadsHaderup)
