@@ -28,6 +28,9 @@ Thanks to the following people who have contributed to this project:
 
 * [@clbokea](https://github.com/clbokea)
 
+* [@MathiasReker](https://github.com/MathiasReker)
+
+
 *[@EmmaRebner](https://github.com/EmmaRebner)
 
 
@@ -37,4 +40,5 @@ Thanks to the following people who have contributed to this project:
 * [@simongr3dal](https://github.com/simongr3dal)
 * [@Mark Kaplan Hansen](https://github.com/BenAtic-KEA)
 * [@tobiasvinther](https://github.com/tobiasvinther)
+
 
