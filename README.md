@@ -29,6 +29,9 @@ Thanks to the following people who have contributed to this project:
 
 * [@clbokea](https://github.com/clbokea)
 
+* [@zerkia] (https://github.com/zerkia)
+
+
 * [@MathiasReker](https://github.com/MathiasReker)
 
 
