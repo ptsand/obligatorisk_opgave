@@ -31,6 +31,7 @@ Christoffer Pedersen
 * [AlexanderNormann] (https://github.com/AlexanderNormann)
 * [jakobmajiddd] - (https://github.com/jakobmajiddd)
 * [@clbokea](https://github.com/clbokea)
+Nicolas
 * Thony Dyreborg-Kragh
 * [@AmandaTL142](https://github.com/AmandaTL142)
 * [@andjiao](https://github.com/andjiao)
