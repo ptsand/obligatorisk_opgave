@@ -31,6 +31,7 @@ Christoffer Pedersen
 * [AlexanderNormann] (https://github.com/AlexanderNormann)
 * [jakobmajiddd] - (https://github.com/jakobmajiddd)
 * [@clbokea](https://github.com/clbokea)
+* [@AmandaTL142](https://github.com/AmandaTL142)
 * [@andjiao](https://github.com/andjiao)
 * [@RandomHat](https://github.com/RandomHat)
 * [@ChristianHundahl](https://github.com/ChristianHundahl)
