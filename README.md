@@ -24,6 +24,7 @@ Når du har sendt dit pull requests skal du copy/paste urlén til dit eget repos
 
 ## Contributors
 Thanks to the following people who have contributed to this project:
+ * Lars Brogaard Kaiser (https://github.com/mrbrogaardkaiser) DAT21V2
 * [@clbokea](https://github.com/clbokea)´
 * [@KamilleNikolajsen](https://github.com/KamilleNikolajsen)´
 Christoffer Pedersen
