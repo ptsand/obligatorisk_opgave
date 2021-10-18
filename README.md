@@ -2,16 +2,16 @@
 Obligatorisk opgave teknologi 1, efterår 2021
 
 ## Opgaven
-I denne opgave skal du: 
+I denne opgave skal du:
 * Forke dette projekt.
-* Skrive dit navn ind under contributers sidst i denne fil. 
+* Skrive dit navn ind under contributers sidst i denne fil.
 * Lave et pull request
 
-Du skal følge samme workflow som beskrevet i denne tutorial for at løse opgaven korrekt. 
+Du skal følge samme workflow som beskrevet i denne tutorial for at løse opgaven korrekt.
 
-https://git-scm.com/book/en/v2/GitHub-Contributing-to-a-Project 
+https://git-scm.com/book/en/v2/GitHub-Contributing-to-a-Project
 
-Når du har sendt dit pull requests skal du copy/paste urlén til dit eget repository ind i afleveringsdokumentet. 
+Når du har sendt dit pull requests skal du copy/paste urlén til dit eget repository ind i afleveringsdokumentet.
 
 ## Contributing to Obligatorisk opgave
 
@@ -27,6 +27,7 @@ Thanks to the following people who have contributed to this project:
 * [AlexanderNormann] (https://github.com/AlexanderNormann)
 * [jakobmajiddd] - (https://github.com/jakobmajiddd)
 * [@clbokea](https://github.com/clbokea)
+* [@Moshizzl3](https://github.com/Moshizzl3)
 * @martinlaursen97
 * [@MadsHaderup](https://github.com/MadsHaderup)
 * [@Alex-Shadow](https://github.com/Alex-shadow1005)
