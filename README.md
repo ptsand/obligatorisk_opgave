@@ -31,6 +31,7 @@ Christoffer Pedersen
 * [AlexanderNormann] (https://github.com/AlexanderNormann)
 * [jakobmajiddd] - (https://github.com/jakobmajiddd)
 * [@clbokea](https://github.com/clbokea)
+* @Frederikmahipal
 * [@jmunkc](https://github.com/jmunkc)
 * [SirMeows] (https://github.com/SirMeows)
 Nicolas
