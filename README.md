@@ -28,6 +28,7 @@ Thanks to the following people who have contributed to this project:
 *https://github.com/AlexanderNormann
 * [jakobmajiddd] - (https://github.com/jakobmajiddd)
 * [@clbokea](https://github.com/clbokea)
+* [@Nicklas00](https://github.com/Nicklas00)
 * silk2918@stud.kea.dk @silkemarie(https://github.com/silkemarie) silke marie 
 * [@jens8592@stud.kea.dk](https://github.com/Jens-k-m-m)
 * [@TheeCapain](https://github.com/TheeCapain)
