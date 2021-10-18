@@ -28,22 +28,12 @@ Når du har sendt dit pull requests skal du copy/paste urlén til dit eget repos
 Thanks to the following people who have contributed to this project:
 
 * [@clbokea](https://github.com/clbokea)
-
-* [@jona826b](https://github.com/jona826b)
-
-
+* [@Nicklas00](https://github.com/Nicklas00
+* [@jona826b](https://github.com/jona826
 * [@ChristianWalmar](https://github.com/ChristianWalmar)
-
-
 * [@zerkia] (https://github.com/zerkia)
-
-
 * [@MathiasReker](https://github.com/MathiasReker)
-
-
 *[@EmmaRebner](https://github.com/EmmaRebner)
-
-
 * [Krogs420 kris135f@kea.stud.dk](https://github.com/Krogs420) Kristian
 * [@FrederikWVB - Frederik Wandall von Benzon](https://github.com/FrederikWVB)
 * [@MichaelDyvad](https://github.com/MichaelDyvad)
