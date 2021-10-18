@@ -24,10 +24,10 @@ Når du har sendt dit pull requests skal du copy/paste urlén til dit eget repos
 
 ## Contributors
 Thanks to the following people who have contributed to this project:
-*AlexanderNormann
-*https://github.com/AlexanderNormann
+* [AlexanderNormann] (https://github.com/AlexanderNormann)
 * [jakobmajiddd] - (https://github.com/jakobmajiddd)
 * [@clbokea](https://github.com/clbokea)
+* @martinlaursen97
 * [@MadsHaderup](https://github.com/MadsHaderup)
 * [@Alex-Shadow](https://github.com/Alex-shadow1005)
 * [@Nicklas00](https://github.com/Nicklas00)
@@ -49,4 +49,3 @@ Thanks to the following people who have contributed to this project:
 * [@simongr3dal](https://github.com/simongr3dal)
 * [@Mark Kaplan Hansen](https://github.com/BenAtic-KEA)
 * [@tobiasvinther](https://github.com/tobiasvinther
-
