@@ -28,6 +28,7 @@ Thanks to the following people who have contributed to this project:
 *https://github.com/AlexanderNormann
 * [jakobmajiddd] - (https://github.com/jakobmajiddd)
 * [@clbokea](https://github.com/clbokea)
+* [@MadsHaderup](https://github.com/MadsHaderup)
 * [@Alex-Shadow](https://github.com/Alex-shadow1005)
 * [@Nicklas00](https://github.com/Nicklas00)
 * silk2918@stud.kea.dk @silkemarie(https://github.com/silkemarie) silke marie 
@@ -48,3 +49,4 @@ Thanks to the following people who have contributed to this project:
 * [@simongr3dal](https://github.com/simongr3dal)
 * [@Mark Kaplan Hansen](https://github.com/BenAtic-KEA)
 * [@tobiasvinther](https://github.com/tobiasvinther
+
