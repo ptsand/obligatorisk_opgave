@@ -23,8 +23,25 @@ Når du har sendt dit pull requests skal du copy/paste urlén til dit eget repos
 
 
 ## Contributors
-
 Thanks to the following people who have contributed to this project:
-
+*AlexanderNormann
+*https://github.com/AlexanderNormann
+* [jakobmajiddd] - (https://github.com/jakobmajiddd)
 * [@clbokea](https://github.com/clbokea)
 * [@jens8592@stud.kea.dk](https://github.com/Jens-k-m-m)
+* [@TheeCapain](https://github.com/TheeCapain)
+* [August]
+*[@jens8592@stud.kea.dk](https://github.com/Jens-k-m-m)
+* [@vitaliy-serdyukov](https://github.com/vitaliy-serdyukov)
+* [@Nicklas00](https://github.com/Nicklas00
+* [@jona826b](https://github.com/jona826
+* [@ChristianWalmar](https://github.com/ChristianWalmar)
+* [@zerkia] (https://github.com/zerkia)
+* [@MathiasReker](https://github.com/MathiasReker)
+*[@EmmaRebner](https://github.com/EmmaRebner)
+* [Krogs420 kris135f@kea.stud.dk](https://github.com/Krogs420) Kristian
+* [@FrederikWVB - Frederik Wandall von Benzon](https://github.com/FrederikWVB)
+* [@MichaelDyvad](https://github.com/MichaelDyvad)
+* [@simongr3dal](https://github.com/simongr3dal)
+* [@Mark Kaplan Hansen](https://github.com/BenAtic-KEA)
+* [@tobiasvinther](https://github.com/tobiasvinther)
